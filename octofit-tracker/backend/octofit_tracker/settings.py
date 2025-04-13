@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-rjnbktit!7oi@o$!g_+g=*(7hx%#(*1=z&_(#$s))l5tb4ur3k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'vigilant-goldfish-74rxg59jxvfrgww-8000.app.github.dev']
 
 
 # Application definition
